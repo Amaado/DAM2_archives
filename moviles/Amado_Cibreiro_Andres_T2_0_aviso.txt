@@ -1,0 +1,1 @@
+Aviso: el emulador del móvil de Android Studio no me funciona, hice el código a ciegas. Creo que debería de funcionar bien, aunque aviso de cualquier error que pueda aparecer se deberá a que no lo pude comprobar.
