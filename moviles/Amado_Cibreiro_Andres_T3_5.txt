@@ -1,0 +1,8 @@
+En este proyecto se incluyen las entregas siguientes: 
+
+T3.0_LinearLayouts
+T3.1_FrameLayouts
+T3.2_RelativeLayouts
+T3.3_TableLayouts
+T3.4_GridLayouts
+T3.5_IntegrarLayoutsEnApp
