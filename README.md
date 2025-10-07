@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,50:090979,100:146E80&text=2º%20DAM%20Web🌐&fontAlign=50&reversal=false&textBg=false&desc=A%20better%20main%20%20menu%20for%20my%20studies%20web%20page&descAlign=48&descAlignY=61&fontAlignY=42&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:B43A4E,50:FD1D1D,100:FCB045&text=2ºDAM%20Archives📕&fontAlign=50&reversal=false&textBg=false&desc=Yust%20the%20files%20of%20my%20studies%20year&descAlign=55&descAlignY=61&fontAlignY=42&fontColor=0D1117"/>
 </p>
 
 ### General Information
